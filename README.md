@@ -74,6 +74,8 @@ The script will loop through each image and display the results.
 ## Example Output
 
 ```
+![Sample Prediction](https://github.com/user-attachments/assets/785113f3-cd12-4475-b1cb-d3e1452e65e4)
+
 Testing image: /content/3853858281.jpg
 1/1 [==============================] - 1s 1s/step
 Class: 0 iphone
