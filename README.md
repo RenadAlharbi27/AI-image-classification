@@ -7,7 +7,7 @@ This project implements an image classification model to distinguish between two
 - **ai\_task\_1\_image\_classification.py**: The Python script for loading the model, predicting classes for images, and displaying results.
 - **keras\_model.h5**: Pretrained Keras model file.
 - **labels.txt**: Text file containing the class labels.
-- **test**: Directory containing test images used for evaluation.
+- **test.zip**: Archive containing test images used for evaluation.
 
 ## Prerequisites
 
