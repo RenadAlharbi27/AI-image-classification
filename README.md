@@ -62,11 +62,23 @@ The script will loop through each image and display the results.
 
 ## Example Output
 ```
-![image](https://github.com/user-attachments/assets/ee61f4fa-0f38-4ea8-83ab-354e84773bee)
-![image](https://github.com/user-attachments/assets/a9e7f701-4fda-45cd-b8ff-799617908b91)
-![image](https://github.com/user-attachments/assets/9da3c8e5-3318-4264-9ac2-35a25aad7b1f)
+Testing image: /content/3853858281.jpg
+1/1 [==============================] - 1s 1s/step
+Class: 0 iphone
+Confidence Score: 0.97066194
+
+Testing image: /content/1200px-IPhone_8_vector.svg.png
+1/1 [==============================] - 0s 49ms/step
+Class: 0 iphone
+Confidence Score: 0.9841287
+
+Testing image: /content/Screenshot 2024-08-20 at 10.26.20 PM.png
+1/1 [==============================] - 0s 80ms/step
+Class: 1 Galaxy
+Confidence Score: 0.99994195
 
 ```
+These are the correct results based on the provided model and test images.
 
 ## Notes
 - The input images must be in RGB format.
